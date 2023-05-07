@@ -100,3 +100,14 @@ ul li p {
 .editBtn {
   color: #008000;
 }
+.copyright {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  color: white;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
